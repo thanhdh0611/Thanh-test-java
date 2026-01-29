@@ -49,7 +49,7 @@ jobs:
           context: ./BookStore/bookstore_api
 
           # Dockerfile bạn đang đặt ở BookStore/Dockerfile
-          file: ./BookStore/Dockerfile
+          file: ./BookStore/bookstore_api/Dockerfile
 
           push: true
           tags: ${{ steps.meta.outputs.tags }}
