@@ -1,0 +1,17 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+
+}
+
+.about-description {
+    padding: 0.5rem;
+    width: 70%;
+}
+
+.about-image {
+    padding: 0.5rem;
+    width:30%;
+}
+

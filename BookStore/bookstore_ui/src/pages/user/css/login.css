@@ -1,0 +1,74 @@
+.login-container {
+
+    align-items: center;
+    width: 400px;
+    margin: 10rem auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .password-toggle-btn {
+    background: none;
+    border: none;
+    color: #007bff;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+
+  .btn-register {
+    margin-bottom: 8px;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .btn-link {
+    background: none;
+    border: none;
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }

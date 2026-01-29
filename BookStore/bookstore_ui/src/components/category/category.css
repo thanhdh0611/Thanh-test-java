@@ -1,0 +1,18 @@
+.FireNav .MuiListItemButton-root {
+  padding-left: 24px;
+  padding-right: 243px;
+}
+
+.FireNav .MuiListItemButton-root {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.FireNav .MuiListItemIcon-root {
+  min-width: 0;
+  margin-right: 16px;
+}
+
+.FireNav .MuiSvgIcon-root {
+  font-size: 20px;
+}

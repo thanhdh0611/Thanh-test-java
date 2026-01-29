@@ -1,0 +1,80 @@
+<<<<<<< HEAD
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\provider\CustomAuthenticationProvider.java
+=======
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\UserAddress.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\request\OrderDetailsRq.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\request\UserRq.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\OrderStatus.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\response\UserRsp.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\UserServiceImpl.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\ICategoryService.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\response\CategoryRsp.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\CategoryServiceImpl.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\IBookService.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Category.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\exception\FileNotFoundException.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\repository\UserRepository.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\IRoleService.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\repository\BookRepository.java
+<<<<<<< HEAD
+=======
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\AboutService.java
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\RoleController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\BookstoreApplication.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\provider\CustomAuthenManagerProvider.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\CategoryController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Role.java
+<<<<<<< HEAD
+=======
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\IAboutService.java
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Address.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\BookLanguage.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\HomeController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\request\AboutRq.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\repository\CategoryRepository.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Publisher.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\repository\RoleRepository.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Users.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\BookController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\response\RoleRsp.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\OrderDetail.java
+<<<<<<< HEAD
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\config\RedisConfig.java
+=======
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\AboutController.java
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Book.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\config\SecurityConfig.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\LoginController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\filter\JWTFilter.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\BookServiceImpl.java
+<<<<<<< HEAD
+=======
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\About.java
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\request\BookRq.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\response\BaseRsp.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Order.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\request\UOrderRq.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\BookAuthor.java
+<<<<<<< HEAD
+=======
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\repository\AboutRepository.java
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\utils\JWTHelperUtils.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\AddressStatus.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\UserDetailServiceImpl.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\impl\RoleServiceImpl.java
+<<<<<<< HEAD
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\payload\response\BookRsp.java
+=======
+>>>>>>> main
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\ids\OrderDetailsIds.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\controller\UserController.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\service\IUserService.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Author.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\ShippingMethod.java
+E:\Git\BookStore\bookstore_api\src\main\java\book\store\entity\Country.java

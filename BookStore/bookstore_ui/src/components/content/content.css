@@ -1,0 +1,144 @@
+.container-content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.category-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.category-container h2 {
+  font-family: Poppins-Bold;
+  padding-left: 2rem;
+  float: left;
+  font-size: 36px;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.sup-filter-category {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-category {
+  display: flex;
+  gap: 1rem;
+}
+
+.filter-category div {
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+}
+
+.sup-category {
+  display: flex;
+  padding-left: 1rem;
+  gap: 30px;
+}
+
+.product-container {
+  margin-top: 30px !important;
+}
+
+.product-container_text {
+  margin-bottom: 1rem;
+}
+
+.product-container h2 {
+  font-family: Poppins-Bold;
+  padding-left: 2rem;
+  float: left;
+  font-size: 36px;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.product-list {
+  margin-bottom: 20px;
+}
+
+.product {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.product-image img {
+  width: 230px;
+  height: 300px;
+}
+
+.product-name {
+  margin-top: 20px;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.author-name {
+  color: black;
+}
+
+.product-price-rating {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.product-rating {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: column; */
+}
+
+.product-rating div {
+  font-size: 1.2rem;
+}
+
+.rating-value {
+  margin-left: 5px; /* Khoảng cách giữa rating component và giá trị rating */
+}
+
+.product_price {
+  display: flex;
+  align-items: center;
+}
+
+.product_price-text {
+  margin: 0;
+  color: red;
+  font-size: 1.5rem;
+}
+
+.product-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+}
+
+.product-pagination button {
+  width: 3%;
+}
+
+h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.sup-category div {
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+}
+
+.sup-category div:hover {
+  background-color: #ccc;
+}

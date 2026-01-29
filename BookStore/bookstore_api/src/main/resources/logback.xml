@@ -1,0 +1,32 @@
+<configuration>
+
+    <property name="LOG_FOLDER" value="E:\\Git\\BookStore\\bookstore_api\\log_book" />
+
+    <appender name="FILE-AUDIT"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_FOLDER}/bookstore.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>
+                %d{yyyy-MM-dd HH:mm:ss} - %msg%n
+            </Pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_FOLDER}/archived/debug.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy
+                    class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>50MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+
+    <!-- Cấu hình profile tắt log -->
+    <springProfile name="no-logging">
+        <logger name="com.example" level="OFF"/>
+        <!-- Các logger khác bạn muốn tắt log -->
+    </springProfile>
+
+    <root level="info">
+        <appender-ref ref="FILE-AUDIT" />
+    </root>
+</configuration>
